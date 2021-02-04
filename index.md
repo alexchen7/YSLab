@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Testing Header 1
+## UTF-8 中文 Test 2
 ### Header 3
 
 - Bulleted
