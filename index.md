@@ -28,8 +28,8 @@ p::before {
   }
 ```
 
-There will be something a small 'hello' with red background before the message.
-Ussage: When you want to add something auto aligns with your element before and or after.
+There will be small 'hello' with red background before the message.
+Usage: When you want to add something auto aligns with your element before and or after.
 
 
 
