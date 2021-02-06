@@ -1,5 +1,4 @@
-## Github中文測試
-
+## 前端開發筆記
 
 Testing測試！You can use the [editor on GitHub](https://github.com/alexchen7/webpage_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Testing Header 1
-## UTF-8 中文 Test 2
+# Header 1
+## Header 2
 ### Header 3
 
 - Bulleted
