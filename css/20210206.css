@@ -1,0 +1,14 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 5rem;
+}
+
+p::before {
+	content: 'before';
+	background: red;
+	font-size: 1.25rem;
+	font-weight: 900;
+}
