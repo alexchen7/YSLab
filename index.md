@@ -11,7 +11,7 @@ Use find and cat in a pipe.
 
 ```Markdown
 > find -name *.csv -exec cat {} + <== displays all the matched files
-> find -name *.csv -exec cat {} \; <== display matched files one by one
+> find -name *.csv -exec cat {} \; <== displays matched files one by one
 ```
 
 ### Mar 1, 2021
